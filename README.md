@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebono&label=Profile%20views&color=0e75b6&style=flat" alt="lonebono" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonebono" alt="lonebono" /></a> </p>
-
 - 🔭 currently studying at **De La Salle University**
 
 - 💬 ask me about for a convo in **philosophy, tech, medicine, and business!**
