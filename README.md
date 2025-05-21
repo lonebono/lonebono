@@ -1,4 +1,4 @@
-<h1 align="center">hey,i'm lonebono</h1>
+<h1 align="center">hey, i'm lonebono</h1>
 <h3 align="center">per ardua ad astra!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebono&label=Profile%20views&color=0e75b6&style=flat" alt="lonebono" /> </p>
@@ -11,7 +11,7 @@
 
 - 🤝 interested in **philosophy, music, medical technology, and business**
 
-- ⚡fun fact - if not a cs degree **nuclear engineering, medicine, or law degree instead**
+- ⚡fun fact - if not a cs degree then **nuclear engineering, medicine, or law degree instead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
