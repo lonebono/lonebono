@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm lonebono</h1>
+<h1 align="center">hey, i'm lonebono :p</h1>
 <h3 align="center">per ardua ad astra!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebono&label=Profile%20views&color=0e75b6&style=flat" alt="lonebono" /> </p>
