@@ -6,7 +6,19 @@
 
 ###
 
-<p align="left">- 🔭 currently studying at **De La Salle University**<br><br>- 😁 CSG **College President**<br><br>- 🌱 currently learning **computer science**<br><br>- 🤝 interested in **philosophy, music, medical technology, and business**<br><br>- 💬 ask me about for a convo in **philosophy, tech, medicine, and business!**<br><br>- ⚡fun fact - if not a cs degree then **nuclear engineering, medicine, or law degree instead**</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebono&label=Profile%20views&color=0e75b6&style=flat" alt="lonebono" /> </p>
+
+- 🔭 currently studying at **De La Salle University**
+
+- 😁 CSG **College President**
+
+- 🌱 currently learning **computer science**
+
+- 🤝 interested in **philosophy, music, medical technology, and business**
+
+- 💬 ask me about for a convo in **philosophy, tech, medicine, and business!**
+
+- ⚡fun fact - if not a cs degree then **nuclear engineering, medicine, or law degree instead**
 
 ###
 
