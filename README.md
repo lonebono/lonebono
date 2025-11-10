@@ -22,6 +22,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lonebono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=lonebono&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lonebono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -78,9 +86,15 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lonebono/lonebono/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/bono">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bono&count=10&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/22adtbnkbzie7yj74sa2r73my">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22adtbnkbzie7yj74sa2r73my&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
