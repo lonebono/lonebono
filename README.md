@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm lonebono</h1>
+<h1 align="center">hey, i'm lonebono :p</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 - 🔭 currently studying at **De La Salle University**
 
-- 😁 CSG **College President**
+- 📖 CSG **College President**
 
 - 🌱 currently learning **computer science**
 
