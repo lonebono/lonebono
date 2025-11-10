@@ -86,8 +86,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/lonebono/lonebono/output/snake.svg" alt="Snake animation" />
 
 ###
