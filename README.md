@@ -6,8 +6,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebono&label=Profile%20views&color=0e75b6&style=flat" alt="lonebono" /> </p>
-
 - 🔭 currently studying at **De La Salle University**
 
 - 📖 CSG **College President**
