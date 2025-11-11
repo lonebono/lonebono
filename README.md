@@ -84,7 +84,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lonebono/lonebono/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/lonebono/lonebono/output/Snake.svg" alt="Snake animation"/>
 
 ###
 
